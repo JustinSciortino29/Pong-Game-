@@ -1,3 +1,19 @@
 #canvas {
-  border:1px solid black ;
+  border: 5px solid black;
+  position: absolute;
+  margin :auto;
+  top:0;
+  right:0;
+  left:0;
+  bottom:0;
+}
+.Header{
+  text-align: center;
+}
+body {
+  background-color: red;
+}
+
+.canvascolor{
+background-color: #000000;
 }
