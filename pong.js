@@ -1,2 +1,5 @@
-createCanvas (600,400);
+createCanvas (600,800);
+const canvas = getElementById("canvas");
+
+
 
